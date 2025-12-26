@@ -24,7 +24,7 @@ export async function importMenuFromText(text: string) {
 
     const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
 
-    let currentCategoryId = null; // Default to first existing or create new
+    let currentCategoryId: string | null = null; // Default to first existing or create new
     let catOrder = db.categories.length;
 
     // Create a "Imported" category if none matches?
