@@ -36,6 +36,15 @@ export default function AdminPage() {
                         <h1 className="text-xl font-bold tracking-tight text-gray-900">Painel do Parceiro</h1>
                     </div>
                     <div className="flex items-center gap-4">
+                        <form action={async () => {
+                            'use server';
+                            const { cookies } = require('next/headers');
+                            const { redirect } = require('next/navigation');
+                            (await cookies()).delete('admin_session');
+                            redirect('/login');
+                        }}>
+                            <Button variant="ghost" size="sm" className="text-gray-500">Sair</Button>
+                        </form>
                         <Button asChild variant="outline" className="border-red-200 text-red-600 hover:bg-red-50 hover:text-red-700">
                             <Link href="/" target="_blank">Ver Loja Online</Link>
                         </Button>
