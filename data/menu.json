@@ -1,0 +1,627 @@
+{
+  "categories": [
+    {
+      "id": "g43pzkgp96d",
+      "name": "Destaques",
+      "order": 0,
+      "active": true
+    },
+    {
+      "id": "ojmu7ee2ok",
+      "name": "Geral",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "4xquu3srqzr",
+      "name": "Entradinhas",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "plux2evktkm",
+      "name": "Paga na entrega ganhe teriaki grátis",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "g49oz87v2qp",
+      "name": "Top 10",
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "jcdjjhe8zwn",
+      "name": "Ofertas de Abril",
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "501w1addqoq",
+      "name": "Super Combo 72 rolls",
+      "order": 6,
+      "active": true
+    },
+    {
+      "id": "hrhthnvd29m",
+      "name": "Tudo por 4,99",
+      "order": 7,
+      "active": true
+    },
+    {
+      "id": "ai86ar8oi6k",
+      "name": "Tudo por 9,99",
+      "order": 8,
+      "active": true
+    },
+    {
+      "id": "55sw9bt1zpt",
+      "name": "Promoção de Rolls",
+      "order": 9,
+      "active": true
+    },
+    {
+      "id": "v3q6aaizwt",
+      "name": "O que pedir???",
+      "order": 10,
+      "active": true
+    },
+    {
+      "id": "o6znoixtgp8",
+      "name": "Botes Now",
+      "order": 11,
+      "active": true
+    },
+    {
+      "id": "fp244jz05qk",
+      "name": "Combo para familia - Dia das mães ifood",
+      "order": 12,
+      "active": true
+    },
+    {
+      "id": "veqqdu6whps",
+      "name": "Combos Now!",
+      "order": 13,
+      "active": true
+    },
+    {
+      "id": "f95ottxyd8j",
+      "name": "Palito Now - Japa no palito",
+      "order": 14,
+      "active": true
+    },
+    {
+      "id": "e9i4127p8x",
+      "name": "Rolls",
+      "order": 15,
+      "active": true
+    },
+    {
+      "id": "ida6exkgtpg",
+      "name": "Now Premium Rolls",
+      "order": 16,
+      "active": true
+    },
+    {
+      "id": "poslodrgwmr",
+      "name": "Joe joe",
+      "order": 17,
+      "active": true
+    },
+    {
+      "id": "itxu3mhyymb",
+      "name": "Sushi",
+      "order": 18,
+      "active": true
+    },
+    {
+      "id": "z0n9u8uh799",
+      "name": "Molhos e adicionais",
+      "order": 19,
+      "active": true
+    },
+    {
+      "id": "080h3gl1szp3",
+      "name": "Promoção V2",
+      "order": 20,
+      "active": true
+    }
+  ],
+  "products": [
+    {
+      "id": "5wso3mu1q6v",
+      "name": "72 Croc salmão",
+      "description": "Serve 4 pessoas",
+      "price": 77.99,
+      "categoryId": "g43pzkgp96d",
+      "imageUrl": "/uploads/72 Croc salmão.jpg",
+      "active": true,
+      "order": 0
+    },
+    {
+      "id": "0vsykad85rs",
+      "name": "Palito salmão hot + teriaki",
+      "description": "Salmão hot no palito +1 molho teriaki",
+      "price": 22.9,
+      "categoryId": "g43pzkgp96d",
+      "imageUrl": "/uploads/Palito salmão hot + teriaki.jpg",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "u2e0r5ow0u",
+      "name": "Palito hot croc + teriaki",
+      "description": "Hot crocante no palito + 1 molho teriaki",
+      "price": 19.9,
+      "categoryId": "g43pzkgp96d",
+      "imageUrl": "/uploads/Palito hot croc + teriaki.jpg",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "xpqdsm4cwnd",
+      "name": "Escolha 5 porções (com 12 unidades cada) 15 opções diferentes de Rolls, você escolhe, algumas porções tem acréscimo",
+      "description": "Serve 4 pessoas",
+      "price": 77,
+      "categoryId": "g43pzkgp96d",
+      "imageUrl": "",
+      "active": true,
+      "order": 3
+    },
+    {
+      "id": "fgnztkfee46",
+      "name": "Sunomono",
+      "description": "Cortes bem fininhos de pepino, Kani, gergelim e molho especial.",
+      "price": 11,
+      "categoryId": "4xquu3srqzr",
+      "imageUrl": "/uploads/Sunomono.jpg",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "3aj4qayhr2j",
+      "name": "Sunomono sem kani",
+      "description": "Cortes bem fininhos de Pepino, Gergelim e Molho especial.",
+      "price": 7,
+      "categoryId": "4xquu3srqzr",
+      "imageUrl": "/uploads/Sunomono sem kani.jpg",
+      "active": true,
+      "order": 0
+    },
+    {
+      "id": "6c5bssw6o6r",
+      "name": "Arroz, salmão, cream cheese e nori(alga) frito e empanado na farinha panko",
+      "description": "Serve 1 pessoa",
+      "price": 22,
+      "categoryId": "plux2evktkm",
+      "imageUrl": "",
+      "active": true,
+      "order": 6
+    },
+    {
+      "id": "428f08s3qfd",
+      "name": "Arroz, salmão, cream cheese e nori(alga) frito e empanado na farinha panko",
+      "description": "Serve 1 pessoa",
+      "price": 22,
+      "categoryId": "g49oz87v2qp",
+      "imageUrl": "",
+      "active": true,
+      "order": 7
+    },
+    {
+      "id": "o2n5cmp2cys",
+      "name": "24 Rolls de salmão com Cream Cheese, alga e arroz",
+      "description": "Serve 2 pessoas",
+      "price": 39,
+      "categoryId": "g49oz87v2qp",
+      "imageUrl": "",
+      "active": true,
+      "order": 8
+    },
+    {
+      "id": "1ferancawtrj",
+      "name": "Hot Philadelphia de pele(Skin) de salmão frita",
+      "description": "Serve 3 pessoas",
+      "price": 54.99,
+      "categoryId": "g49oz87v2qp",
+      "imageUrl": "",
+      "active": true,
+      "order": 9
+    },
+    {
+      "id": "nlxvdz1ymn",
+      "name": "6 peças Philadelphia e 6 peças hot Rolls Crocante",
+      "description": "Serve 1 pessoa",
+      "price": 22,
+      "categoryId": "g49oz87v2qp",
+      "imageUrl": "/uploads/6 peças Philadelphia e 6 peças hot rolls Crocante.jpg",
+      "active": true,
+      "order": 10
+    },
+    {
+      "id": "zztvpr0z95d",
+      "name": "72 Croc salmão",
+      "description": "Serve 4 pessoas",
+      "price": 77.99,
+      "categoryId": "jcdjjhe8zwn",
+      "imageUrl": "/uploads/72 Croc salmão.jpg",
+      "active": true,
+      "order": 11
+    },
+    {
+      "id": "vo9ww2u2iwl",
+      "name": "18 hot Philadelphia crocante",
+      "description": "",
+      "price": 28,
+      "categoryId": "jcdjjhe8zwn",
+      "imageUrl": "",
+      "active": true,
+      "order": 12
+    },
+    {
+      "id": "otgiombio2",
+      "name": "24 Hot Croc Salmão 24 Hot Atum 24 Hot Skin",
+      "description": "Serve 4 pessoas",
+      "price": 70,
+      "categoryId": "501w1addqoq",
+      "imageUrl": "",
+      "active": true,
+      "order": 13
+    },
+    {
+      "id": "boze436pc75",
+      "name": "4 unidades. Salmão, cream cheese, cebolinha, gergelim",
+      "description": "Serve 1 pessoa",
+      "price": 17,
+      "categoryId": "501w1addqoq",
+      "imageUrl": "",
+      "active": true,
+      "order": 14
+    },
+    {
+      "id": "484fsww1nzc",
+      "name": "1 Temaki Philadelphia Skin",
+      "description": "Serve 1 pessoa",
+      "price": 19,
+      "categoryId": "hrhthnvd29m",
+      "imageUrl": "",
+      "active": true,
+      "order": 15
+    },
+    {
+      "id": "88m9v19eafp",
+      "name": "12 Uramaki salmão hot",
+      "description": "Serve 1 pessoa",
+      "price": 23,
+      "categoryId": "ai86ar8oi6k",
+      "imageUrl": "",
+      "active": true,
+      "order": 16
+    },
+    {
+      "id": "agakayzwv54",
+      "name": "36 Rolls",
+      "description": "Escolha 3 porções (com 12 unidades cada) 15 opções diferentes de rolls, você escolhe, algumas porções tem acréscimo.",
+      "price": 45.99,
+      "categoryId": "55sw9bt1zpt",
+      "imageUrl": "",
+      "active": true,
+      "order": 17
+    },
+    {
+      "id": "vbtehz614qo",
+      "name": "Escolha 4 porções (com 12 unidades cada) 15 opções diferentes de Rolls, você escolhe, algumas porções tem acréscimo",
+      "description": "Serve 3 pessoas",
+      "price": 56.99,
+      "categoryId": "55sw9bt1zpt",
+      "imageUrl": "",
+      "active": true,
+      "order": 18
+    },
+    {
+      "id": "aruz45jun7p",
+      "name": "60 peças de hot Philadelphia crocante",
+      "description": "Serve 3 pessoas",
+      "price": 69.99,
+      "categoryId": "55sw9bt1zpt",
+      "imageUrl": "",
+      "active": true,
+      "order": 19
+    },
+    {
+      "id": "7rd32zbgmwr",
+      "name": "Escolha 5 porções (com 12 unidades cada) 15 opções diferentes de Rolls, você escolhe, algumas porções tem acréscimo",
+      "description": "Serve 4 pessoas",
+      "price": 77,
+      "categoryId": "55sw9bt1zpt",
+      "imageUrl": "",
+      "active": true,
+      "order": 20
+    },
+    {
+      "id": "bx64609yuhh",
+      "name": "Escolha 6 porções (com 12 unidades cada) 15 opções diferentes de Rolls, você escolhe, algumas porções tem acréscimo",
+      "description": "Serve 4 pessoas",
+      "price": 85,
+      "categoryId": "55sw9bt1zpt",
+      "imageUrl": "",
+      "active": true,
+      "order": 21
+    },
+    {
+      "id": "ya8pme3oxtq",
+      "name": "12 Hot Philadelphia - 12 Philadelphia - 12 Uramaki",
+      "description": "Serve 1 pessoa",
+      "price": 45.9,
+      "categoryId": "v3q6aaizwt",
+      "imageUrl": "",
+      "active": true,
+      "order": 22
+    },
+    {
+      "id": "z4oy7etqh4k",
+      "name": "4 sushi skin - 12 skin roll - 12 hot Philadelphia",
+      "description": "Serve 1 pessoa",
+      "price": 45.9,
+      "categoryId": "v3q6aaizwt",
+      "imageUrl": "",
+      "active": true,
+      "order": 23
+    },
+    {
+      "id": "2gllynziiwy",
+      "name": "12 peças de hotcroc skin + 12 kani maki + 05 sushis de kani + 07 sushis de salmão ** todos os pedidos serão enviados no barquinho promocional enquanto durarem os estoques",
+      "description": "Serve 2 pessoas",
+      "price": 100,
+      "categoryId": "o6znoixtgp8",
+      "imageUrl": "",
+      "active": true,
+      "order": 24
+    },
+    {
+      "id": "1gudqftqef3",
+      "name": "16 sashimis de salmão + 12 hot crocante + 06 philadelfia roll + 06 skin roll + 05 joe joe ** Todos os pedidos serão enviados no barquinho promocional enquanto durarem os estoques",
+      "description": "Serve 3 pessoas",
+      "price": 135,
+      "categoryId": "fp244jz05qk",
+      "imageUrl": "",
+      "active": true,
+      "order": 25
+    },
+    {
+      "id": "t0bqjiyw3lh",
+      "name": "24 Hot Philadelphia - 24 Philadelphia - 10 sashimis salmão",
+      "description": "Serve 2 pessoas",
+      "price": 115.99,
+      "categoryId": "veqqdu6whps",
+      "imageUrl": "/uploads/24 Philadelphia ..jpg",
+      "active": true,
+      "order": 26
+    },
+    {
+      "id": "5rmyr59ecf",
+      "name": "24 Hot Philadelphia - 24 Philadelphia - salmão - 4 sushi salmão - 4 sushi skin",
+      "description": "Serve 3 pessoas",
+      "price": 129.99,
+      "categoryId": "veqqdu6whps",
+      "imageUrl": "/uploads/24 Philadelphia ..jpg",
+      "active": true,
+      "order": 27
+    },
+    {
+      "id": "a1hmlncwaqh",
+      "name": "Palito hot croc + teriaki",
+      "description": "Hot crocante no palito + 1 molho teriaki",
+      "price": 19.9,
+      "categoryId": "f95ottxyd8j",
+      "imageUrl": "/uploads/Palito hot croc + teriaki.jpg",
+      "active": true,
+      "order": 28
+    },
+    {
+      "id": "05mvo4x3488j",
+      "name": "Palito salmão hot + teriaki",
+      "description": "Salmão hot no palito +1 molho teriaki",
+      "price": 22.9,
+      "categoryId": "f95ottxyd8j",
+      "imageUrl": "/uploads/Palito salmão hot + teriaki.jpg",
+      "active": true,
+      "order": 29
+    },
+    {
+      "id": "ol709t57orc",
+      "name": "6 Peças Uramaki Philadelphia Salmão",
+      "description": "6pçs. Salmão, cream cheese, alga, arroz e gergelim por fora.",
+      "price": 10.9,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 30
+    },
+    {
+      "id": "6uktfcso9xp",
+      "name": "6 Peças de Hot Philadelphia crocante",
+      "description": "06 pçs. Salmão, cream cheese, arroz, alga, empanado na massa e na crocante.",
+      "price": 12.5,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 31
+    },
+    {
+      "id": "35dru9q9cy1",
+      "name": "6 Peças Philadélphia",
+      "description": "6pçs. Salmão, crean cheese, arroz e alga.",
+      "price": 11.99,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 32
+    },
+    {
+      "id": "3vmq5fjwabq",
+      "name": "6 Peças Skin roll",
+      "description": "6pçs. Pele de salmão grelhada, alga, envolto por arroz e gergelim por fora.",
+      "price": 9.5,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 33
+    },
+    {
+      "id": "9um9exzmk2v",
+      "name": "Hot Philadelphia Crocante Salmão",
+      "description": "12 pçs. Salmão, cream cheese, arroz, alga, empanado na massa e na crocante.",
+      "price": 22,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 34
+    },
+    {
+      "id": "r2dazj9b0h",
+      "name": "Hot skin",
+      "description": "6pçs. Pele de de salmão grelhadas, crean cheese, arroz, alga, empanado e frito.",
+      "price": 10.5,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 35
+    },
+    {
+      "id": "uwoipl5f56k",
+      "name": "Kani Roll",
+      "description": "6pçs. Carne de siri(kani), arroz e alga.",
+      "price": 9,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 36
+    },
+    {
+      "id": "nkkmbvkar2q",
+      "name": "Salmão maki",
+      "description": "6pçs. Salmão, arroz e alga.",
+      "price": 11,
+      "categoryId": "e9i4127p8x",
+      "imageUrl": "",
+      "active": true,
+      "order": 37
+    },
+    {
+      "id": "rhi8kinulfe",
+      "name": "Salmão hot (sem arroz)",
+      "description": "12 Peças do Hot Filadélfia sem arroz, uma delícia, muito Salmão e Cream cheese!",
+      "price": 35.99,
+      "categoryId": "ida6exkgtpg",
+      "imageUrl": "",
+      "active": true,
+      "order": 38
+    },
+    {
+      "id": "321zxqjrc0e",
+      "name": "Uramaki envolto em uma lâmina de salmão com cream cheese e geleia de pimenta",
+      "description": "Serve 1 pessoa",
+      "price": 29,
+      "categoryId": "ida6exkgtpg",
+      "imageUrl": "",
+      "active": true,
+      "order": 39
+    },
+    {
+      "id": "s43xn4ecskc",
+      "name": "Uramaki salmão hot",
+      "description": "Serve 1 pessoa",
+      "price": 25,
+      "categoryId": "ida6exkgtpg",
+      "imageUrl": "",
+      "active": true,
+      "order": 40
+    },
+    {
+      "id": "m6lrxfg70ya",
+      "name": "Joe Joe tradicional ( recheado com cream cheese )",
+      "description": "",
+      "price": 30.9,
+      "categoryId": "poslodrgwmr",
+      "imageUrl": "",
+      "active": true,
+      "order": 41
+    },
+    {
+      "id": "acwrcux7sc",
+      "name": "Porção - sushi de salmão",
+      "description": "Porção com 04 unidades",
+      "price": 14,
+      "categoryId": "itxu3mhyymb",
+      "imageUrl": "",
+      "active": true,
+      "order": 42
+    },
+    {
+      "id": "5gz5pjpqibo",
+      "name": "Porção - sushi skin",
+      "description": "Porção com 04 unidades",
+      "price": 10,
+      "categoryId": "itxu3mhyymb",
+      "imageUrl": "",
+      "active": true,
+      "order": 43
+    },
+    {
+      "id": "hnt3b06uop9",
+      "name": "Wasabi",
+      "description": "",
+      "price": 0.2,
+      "categoryId": "z0n9u8uh799",
+      "imageUrl": "",
+      "active": true,
+      "order": 44
+    },
+    {
+      "id": "w6oj1dwtg5",
+      "name": "Gengibre",
+      "description": "",
+      "price": 0.2,
+      "categoryId": "z0n9u8uh799",
+      "imageUrl": "",
+      "active": true,
+      "order": 45
+    },
+    {
+      "id": "2yk53zxorwx",
+      "name": "40 ml",
+      "description": "",
+      "price": 3,
+      "categoryId": "z0n9u8uh799",
+      "imageUrl": "",
+      "active": true,
+      "order": 46
+    },
+    {
+      "id": "bpt737wj6su",
+      "name": "Combo Teste",
+      "description": "Serve 1 pessoa",
+      "price": 50,
+      "categoryId": "ojmu7ee2ok",
+      "imageUrl": "",
+      "active": true,
+      "order": 47
+    },
+    {
+      "id": "71hljg3qaxu",
+      "name": "Combo V2",
+      "description": "",
+      "price": 60,
+      "categoryId": "080h3gl1szp3",
+      "imageUrl": "",
+      "active": true,
+      "order": 0
+    }
+  ],
+  "storeConfig": {
+    "name": "Sushi Now",
+    "phone": "5522997760263",
+    "whatsapp": "5522997760263"
+  }
+}

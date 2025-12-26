@@ -1,0 +1,41 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./sushi.db"
+}
+
+model Admin {
+  id       String @id @default(uuid())
+  username String @unique
+  password String 
+}
+
+model Category {
+  id       String    @id @default(uuid())
+  name     String
+  order    Int       @default(0)
+  active   Boolean   @default(true)
+  products Product[]
+}
+
+model Product {
+  id          String   @id @default(uuid())
+  name        String
+  description String?
+  price       Float
+  imageUrl    String?
+  active      Boolean  @default(true)
+  order       Int      @default(0)
+  category    Category @relation(fields: [categoryId], references: [id])
+  categoryId  String
+}
+
+model StoreConfig {
+  id          String @id @default(uuid())
+  name        String @default("Sushi Now")
+  phone       String @default("") 
+  whatsapp    String @default("") 
+}
